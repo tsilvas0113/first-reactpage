@@ -75,3 +75,9 @@ body {
     font-size: 1.4rem;
     color: #61dafb;
 }
+
+.main-container {
+    background-image: url('./reactjs-icon\ 2.png');
+    background-repeat: no-repeat;
+    background-position: right 120%;
+}
